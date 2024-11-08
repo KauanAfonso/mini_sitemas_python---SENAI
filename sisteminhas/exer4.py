@@ -1,8 +1,7 @@
 import random as r
 
 contas = [
-    [55548, "senha" , 0],
-    [1234, "senha" , 0]
+
 ]
 
 
